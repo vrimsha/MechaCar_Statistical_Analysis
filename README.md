@@ -82,4 +82,4 @@ In your description, address the following questions:
 - I would use anova statistical test in order to test the hypothesis of the cost and safety of each vehicle. Where I can compare the means. 
 
 
-The data from different companies is needed to run the statistical test in order to compare what is relevant on the market. 
+- The data from different companies is needed to run the statistical test in order to compare what is relevant on the market. 
