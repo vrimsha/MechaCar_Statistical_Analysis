@@ -71,7 +71,9 @@ As a result, the p-value of all 3 lots is greater than 0.05. Also, lot 1 with po
 # Deliverable 4: Design a Study Comparing the MechaCar to the Competition
 
 ## Study Design: MechaCar vs Competition
-
+The MechaCar performs against the competition with cost, city or highway fuel efficiency, horse power, maintenance cost, or safety rating.
+In your description, address the following questions:
+What metric or metrics are you going to test? Cost, type of car, compare all cars on 
 
 What is the null hypothesis or alternative hypothesis? One car works another does not have it 
 
