@@ -1,3 +1,4 @@
+
 # Deliverable 1: Linear Regression to Predict MPG
 
 MechaCar_mpg.csv file contains a data of 50 vehicles.  The table headers are vehicle_length, vehicle_weight, spoiler_angle, ground_angle, ground_clearance, AWD and mpg.   
@@ -25,17 +26,26 @@ Please see a summary of each column of MechaCar_mpg.csv file below:
 
 - The slope of the linear model is not considered to be zero. The mpg values corresponding the data variables/coefficients.
 
-- This linear model does not predict mpg of MechaCar prototypes effectively, because the Multiple R-squared mean is 0.7149.
+- This linear model predict mpg of MechaCar prototypes effectively, because the Multiple R-squared mean is 0.7149.
+
 
 # Deliverable 2: Summary Statistics on Suspension Coils. Create Visualizations for the Trip Analysis.
 
-1. The suspension coil’s PSI continuous variable across all manufacturing lots
+1. The suspension coil’s PSI continuous variable across all manufacturing lots.
+
+Here is a table with mean, median, variance and sd of Suspension Coils.csv data:
+
+![total_summary](total_summary.png)
 
 2. The following PSI metrics for each lot: mean, median, variance, and standard deviation.
 
+Please see below a summary with 3 manufacturing lots. 
+
+![lot_summary](lot_summary.png)
+
 ## Summary Statistics on Suspension Coils
 
-The design specifications for the MechaCar suspension coils dictate that the variance of the suspension coils must not exceed 100 pounds per square inch. Does the current manufacturing data meet this design specification for all manufacturing lots in total and each lot individually? Why or why not?
+The design specifications for the MechaCar suspension coils dictate that the variance of the suspension coils must not exceed 100 pounds per square inch. The current manufacturing data meet this design specification for all manufacturing lots in total, because PSI lower than 100. However, lot 3 does not meet it individually with PSI higher 100. 
 
 # Deliverable 3: T-Test on Suspension Coils
 
