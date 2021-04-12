@@ -35,13 +35,13 @@ Please see a summary of each column of MechaCar_mpg.csv file below:
 
 Here is a table with mean, median, variance and sd of Suspension Coils.csv data:
 
-![total_summary](total_summary.png)
+![Total_summary](Total_summary.png)
 
 2. The following PSI metrics for each lot: mean, median, variance, and standard deviation.
 
 Please see below a summary with 3 manufacturing lots. 
 
-![Lot_summary](lot_summary.png)
+![Lot_summary](Lot_summary.png)
 
 ## Summary Statistics on Suspension Coils
 
