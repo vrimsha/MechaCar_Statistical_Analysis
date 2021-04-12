@@ -71,15 +71,15 @@ As a result, the p-value of all 3 lots is greater than 0.05. Also, lot 1 with po
 # Deliverable 4: Design a Study Comparing the MechaCar to the Competition
 
 ## Study Design: MechaCar vs Competition
+
 The MechaCar performs against the competition with cost, city or highway fuel efficiency, horse power, maintenance cost, or safety rating.
 In your description, address the following questions:
-What metric or metrics are you going to test? Cost, type of car, compare all cars on 
 
-What is the null hypothesis or alternative hypothesis? One car works another does not have it 
+- I would compare all types of vehicles by cost and safety. 
 
-What statistical test would you use to test the hypothesis? And why?  Mean , compare the means 
-Avo test to use
+- The null hypothesis is when all vehicles are safe to use. The not null hypothesis is when not all vehicles are equally safe to use.  
+
+- I would use anova statistical test in order to test the hypothesis of the cost and safety of each vehicle. Where I can compare the means. 
 
 
-What data is needed to run the statistical test? I need if for different companies 
-
+The data from different companies is needed to run the statistical test in order to compare what is relevant on the market. 
