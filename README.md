@@ -47,9 +47,9 @@ Please see below a summary with 3 manufacturing lots.
 
 The design specifications for the MechaCar suspension coils dictate that the variance of the suspension coils must not exceed 100 pounds per square inch. The current manufacturing data meet this design specification for all manufacturing lots in total, because PSI lower than 100. However, lot 3 does not meet it individually with PSI higher 100. 
 
-# Deliverable 3: T-Test on Suspension Coils
+# Deliverable 3: T-Test on Suspension Coils. Perform t-tests to determine if all manufacturing lots and each lot individually are statistically different from the population mean of 1,500 pounds per square inch.
 
-Lot 1: the p-value is 1.568. It is gather than 0.05. The null hypothesis can be accepted. 
+Lot 1: the p-value is 1.568. It is greater than 0.05. The null hypothesis can be accepted. 
 
 ![Lot_1](Lot_1.png)
 
@@ -57,11 +57,15 @@ Lot 2: the p-value is 0.0005911. It is less than 0.05. We cannot accept the null
 
 ![Lot_1](Lot_1.png)
 
-Lot 3: the p-value is 0.1589. It is gather than 0.05. The null hypothesis can be accepted. 
+Lot 3: the p-value is 0.1589. It is greater than 0.05. The null hypothesis can be accepted. 
 
 ![Lot_1](Lot_1.png)
 
+
 ## T-Tests on Suspension Coils
+
+As a result, the p-value of all 3 lots is greater than 0.05. It means the null hypothesis can be accepted.
+
 
 # Deliverable 4: Design a Study Comparing the MechaCar to the Competition
 
