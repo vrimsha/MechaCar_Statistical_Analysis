@@ -65,7 +65,7 @@ Lot 3: the p-value is 0.1589. It is greater than 0.05. The null hypothesis can b
 
 ## T-Tests on Suspension Coils
 
-As a result, the p-value of all 3 lots is greater than 0.05. Also, lot 1 with positive t=8.7161 and lot 2 with positive t=3.6739. 
+As a result, the p-value of all 3 lots is greater than 0.05. Also, lot 1 with positive t=8.7161 and lot 2 with positive t=3.6739. It is significant. 
 
 
 # Deliverable 4: Design a Study Comparing the MechaCar to the Competition
