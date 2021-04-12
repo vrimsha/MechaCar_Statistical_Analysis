@@ -41,7 +41,7 @@ Here is a table with mean, median, variance and sd of Suspension Coils.csv data:
 
 Please see below a summary with 3 manufacturing lots. 
 
-![lot_summary](lot_summary.png)
+![Lot_summary](lot_summary.png)
 
 ## Summary Statistics on Suspension Coils
 
