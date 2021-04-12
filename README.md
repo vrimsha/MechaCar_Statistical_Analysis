@@ -35,19 +35,32 @@ Please see a summary of each column of MechaCar_mpg.csv file below:
 
 Here is a table with mean, median, variance and sd of Suspension Coils.csv data:
 
-![Total_summary](Total_summary.png)
+![total_summary](total_summary.png)
 
 2. The following PSI metrics for each lot: mean, median, variance, and standard deviation.
 
 Please see below a summary with 3 manufacturing lots. 
 
-![Lot_summary](Lot_summary.png)
+![lot_summary](lot_summary.png)
 
 ## Summary Statistics on Suspension Coils
 
 The design specifications for the MechaCar suspension coils dictate that the variance of the suspension coils must not exceed 100 pounds per square inch. The current manufacturing data meet this design specification for all manufacturing lots in total, because PSI lower than 100. However, lot 3 does not meet it individually with PSI higher 100. 
 
 # Deliverable 3: T-Test on Suspension Coils
+
+Lot 1: the p-value is 
+
+![Lot_1](Lot_1.png)
+
+Lot 2:
+
+![Lot_1](Lot_1.png)
+
+Lot 3:
+
+![Lot_1](Lot_1.png)
+
 
 ## T-Tests on Suspension Coils
 
