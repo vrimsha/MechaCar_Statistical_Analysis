@@ -26,7 +26,7 @@ Please see a summary of each column of MechaCar_mpg.csv file below:
 
 - The slope of the linear model is not considered to be zero. The mpg values corresponding the data variables/coefficients.
 
-- This linear model predict mpg of MechaCar prototypes effectively, because the Multiple R-squared mean is 0.7149.
+- This linear model does not predict mpg of MechaCar prototypes effectively, because the p-value is 5.35e-11.
 
 
 # Deliverable 2: Summary Statistics on Suspension Coils. Create Visualizations for the Trip Analysis.
