@@ -49,17 +49,17 @@ The design specifications for the MechaCar suspension coils dictate that the var
 
 # Deliverable 3: T-Test on Suspension Coils
 
-Lot 1: the p-value is 
+Lot 1: the p-value is 1.568. It is gather than 0.05. The null hypothesis can be applied. 
 
 ![Lot_1](Lot_1.png)
 
 Lot 2:
 
-![Lot_1](Lot_1.png)
+![Lot_2](Lot_2.png)
 
 Lot 3:
 
-![Lot_1](Lot_1.png)
+![Lot_3](Lot_3.png)
 
 
 ## T-Tests on Suspension Coils
